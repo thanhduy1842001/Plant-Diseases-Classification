@@ -1,4 +1,4 @@
 # Plant-Diseases-Classification
-Tải dữ liệu tại: https://drive.google.com/drive/folders/1vuZPgLF2jV4IiPWbjusbHEe6UQamVVkZ?usp=share_link và để vào trong thư mục images
+Download the data at: https://drive.google.com/drive/folders/1vuZPgLF2jV4IiPWbjusbHEe6UQamVVkZ?usp=share_link and put it in the images folder
 
-Giới thiệu chi tiết dự án trong file Report.pdf
+Project details in Report.pdf
